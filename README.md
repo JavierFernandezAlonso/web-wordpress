@@ -13,7 +13,7 @@
 máquina virtual o un hosting de pruebas. 
 - Crear una página web básica para una empresa ficticia llamada: TecnoAula Formación. La empresa se dedica a ofrecer formación tecnológica para estudiantes, trabajadores y empresas. 
 
-Requisitos de la práctica 
+## Requisitos de la práctica 📑
 
 1. Instalación de WordPress
 
