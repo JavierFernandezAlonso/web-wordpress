@@ -5,7 +5,7 @@
 - Estudiante de Desarrollo de Aplicaciones Multiplataforma
 - Junior Developer en formación
 - Manejo de Java, Php y HTML
-- Experiencia con Apache NetBeans, PhpStorm, Eclipse, phpMyAdmin, mySQL, OracleVirtualBox y Docker.
+- Experiencia con Apache NetBeans, PhpStorm, Eclipse, phpMyAdmin, mySQL, Oracle VirtualBox y Docker.
 
 ## Objetivos 🎯
 
