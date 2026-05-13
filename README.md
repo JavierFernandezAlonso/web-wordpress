@@ -50,23 +50,27 @@ máquina virtual o un hosting de pruebas.
 
 5. Contenido mínimo de las páginas 
 
-La página de Inicio deberá incluir: <br>
+La página de Inicio deberá incluir: 
+
 ● Nombre de la empresa. <br>
 ● Texto de bienvenida. <br>
 ● Imagen o cabecera. <br>
 ● Breve descripción de los servicios.
 
-La página Sobre nosotros deberá incluir: <br>
+La página Sobre nosotros deberá incluir: 
+
 ● Historia ficticia de la empresa. <br>
 ● Misión. <br>
 ● Valores. <br>
 
-La página Servicios deberá incluir al menos tres servicios: <br>
+La página Servicios deberá incluir al menos tres servicios: 
+
 ● Formación en informática básica. <br>
 ● Cursos de redes y sistemas. <br>
 ● Formación para empresas. <br>
 
-La página Contacto deberá incluir: <br>
+La página Contacto deberá incluir: 
+
 ● Dirección ficticia. <br>
 ● Teléfono ficticio. <br>
 ● Correo ficticio. <br>
@@ -74,7 +78,8 @@ La página Contacto deberá incluir: <br>
 
 6. Menú de navegación
    
-El sitio deberá tener un menú principal visible con enlaces a: <br>
+El sitio deberá tener un menú principal visible con enlaces a: 
+
 ● Inicio <br>
 ● Sobre nosotros <br>
 ● Servicios <br>
@@ -85,7 +90,9 @@ El sitio deberá tener un menú principal visible con enlaces a: <br>
 ● Instalar un tema gratuito. <br>
 ● Activarlo correctamente. <br>
 ● Personalizar mínimamente el aspecto visual del sitio. <br>
-Temas recomendados: <br>
+
+Temas recomendados: 
+
 ● Astra <br>
 ● OceanWP <br>
 ● GeneratePress <br>
@@ -95,14 +102,16 @@ Temas recomendados: <br>
 8. Plugins
    
 Se deberán instalar y activar al menos dos plugins. <br>
-Plugins recomendados: <br>
+Plugins recomendados: 
+
 ● Contact Form 7 <br>
 ● Yoast SEO <br>
 ● WP Mail SMTP <br>
 ● UpdraftPlus <br>
 ● Wordfence Security <br>
 ● LiteSpeed Cache <br>
-Indicar brevemente para qué sirve cada plugin instalado. <br>
+
+Indicar brevemente para qué sirve cada plugin instalado. 
 
 9. Seguridad básica
 
@@ -114,7 +123,8 @@ Indicar brevemente para qué sirve cada plugin instalado. <br>
 
 10. Copia de seguridad
     
-Realizar una copia de seguridad del sitio mediante uno de estos métodos: <br>
+Realizar una copia de seguridad del sitio mediante uno de estos métodos: 
+
 ● Exportación de la base de datos desde phpMyAdmin. <br>
 ● Plugin de copias de seguridad. <br>
 ● Copia manual de archivos y base de datos. <br>
@@ -128,7 +138,8 @@ Realizar una copia de seguridad del sitio mediante uno de estos métodos: <br>
 
 12. Capturas mínimas requeridas
     
-La memoria deberá incluir capturas de: <br>
+La memoria deberá incluir capturas de: 
+
 ● Carpeta del proyecto. <br>
 ● Base de datos creada. <br>
 ● Instalación de WordPress. <br>
